@@ -37,7 +37,7 @@ redux-saga、reselect
 * Clone the project into your PC
 	* git clone https://github.com/ChrisLinOvO/project-wow-fit-fronted.git
 * Install all the dependencies that project needs
-	* yarn install or npm install
+	* `yarn install` or `npm install`
 * Start the server
 	* yarn start or npm start to view it in the browser [http://localhost:3000]
 #### This is only the side project for demo purpose, didn't involve any payment flow nor legitimate pictures!!
