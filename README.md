@@ -1,4 +1,5 @@
-This project was bootstrapped with Create React App and Client-side rendering solution, need to connect backend server & database.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app.git)
+ and Client-side rendering solution, need to connect backend server & database.
 
 Backend server repository: [Click me](https://github.com/ChrisLinOvO/project-wow-fit-backend.git)
 
