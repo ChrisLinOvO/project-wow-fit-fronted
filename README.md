@@ -1,6 +1,6 @@
 This project was bootstrapped with Create React App and Client-side rendering solution, need to connect backend server & database.
 
-Backend server repository: [Click me](./project-wow-fit-backend)
+Backend server repository: [Click me](https://github.com/ChrisLinOvO/project-wow-fit-backend.git)
 
 # 資策會 MFEE07 大專題 
 ### 複合型健身房官方網站「WoW FIT」
