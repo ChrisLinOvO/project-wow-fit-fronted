@@ -11,7 +11,7 @@ import { currentUserSelect } from "../../redux/user/user-selector"
 function ArticlesEdit({ currentUserData }) {
 
   // const { currentUserData } = props
-  //該使用者的id
+  //該使用者id
   // const currentUserId = currentUserData ? currentUserData.memberId : ''
   // console.log(currentUserData)
   const { id } = { ...currentUserData }
