@@ -1,8 +1,5 @@
-## 資策會 MFEE07 專題
-
-In the project directory, you can run:
-
-### `yarn start`
+# 資策會 MFEE07 大專題 
+## 第三組 WoW FIT 健身房官方網站
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
